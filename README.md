@@ -1,27 +1,27 @@
 # Movie List Project
 
-## Açıklama
+## Description
 
-Bu proje, kullanıcıların film adı ve IMDb puanı girerek bir film listesi oluşturmasına olanak tanır. Kullanıcılar ayrıca filmleri belirli kriterlere göre filtreleyebilir.
+This project allows users to create a list of movies by entering the movie name and IMDb rating. Users can also filter the movies based on specific criteria.
 
-## Özellikler
+## Features
 
-- Film adı ve IMDb puanı girerek film ekleme
-- Tüm filmleri listeleme
-- IMDb puanı 4 ile 9 arasında olan filmleri listeleme
-- İsmi 'A' ile başlayan filmleri listeleme
+- Add a movie by entering the movie name and IMDb rating
+- List all movies
+- List movies with an IMDb rating between 4 and 9
+- List movies whose names start with the letter 'A'
 
-## Kullanım
+## Usage
 
-1. Programı çalıştırın.
-2. "Film Adı" ve "IMDb Puanı" girin.
-3. Başka bir film eklemek isteyip istemediğinizi belirtin (E/H).
-4. Film eklemeyi tamamladıktan sonra, tüm filmleri, IMDb puanı 4 ile 9 arasında olan filmleri ve ismi 'A' ile başlayan filmleri listeleyin.
+1. Run the program.
+2. Enter the "Movie Name" and "IMDb Rating."
+3. Indicate if you want to add another movie (Y/N).
+4. After finishing movie entry, list all movies, movies with an IMDb rating between 4 and 9, and movies whose names start with 'A.'
 
-## Kurulum
+## Setup
 
-Bu projeyi çalıştırmak için .NET SDK'ya ihtiyacınız var. [Buradan](https://dotnet.microsoft.com/download) .NET SDK'yı indirebilirsiniz.
+To run this project, you will need the .NET SDK. You can download it [here](https://dotnet.microsoft.com/download).
 
-1. Proje dosyasını indirin veya klonlayın.
-2. Projeyi Visual Studio veya herhangi bir C# IDE'sinde açın.
-3. Projeyi derleyin ve çalıştırın.
+1. Download or clone the project files.
+2. Open the project in Visual Studio or any C# IDE.
+3. Build and run the project.

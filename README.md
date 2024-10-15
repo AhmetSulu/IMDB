@@ -25,3 +25,11 @@ To run this project, you will need the .NET SDK. You can download it [here](http
 1. Download or clone the project files.
 2. Open the project in Visual Studio or any C# IDE.
 3. Build and run the project.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or support, please email (ahmet.sulu1993@gmail.com)
